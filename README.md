@@ -17,8 +17,9 @@ sudo apt update
 sudo apt install curl -y
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 sudo apt install -y nodejs
----
 ```
+
+---
 
 Para instalar Docker e docker compose:
 
@@ -26,8 +27,9 @@ Para instalar Docker e docker compose:
 sudo apt install docker.io docker-compose -y
 newgrp docker
 sudo usermod -aG docker $USER
----
+```
 
+---
 
 ## 📦 Instalação de Pacotes
 
