@@ -1,0 +1,16 @@
+export enum CulturaTipo {
+  Soja = 'Soja',
+  Milho = 'Milho',
+  Arroz = 'Arroz',
+  Feijao = 'Feijão',
+  CanaDeAcucar = 'Cana-de-Açúcar',
+  Cafe = 'Café',
+  Algodao = 'Algodão',
+  Trigo = 'Trigo',
+  Sorgo = 'Sorgo',
+  Mandioca = 'Mandioca',
+  Tomate = 'Tomate',
+  Batata = 'Batata',
+  Laranja = 'Laranja',
+  Uva = 'Uva',
+}
