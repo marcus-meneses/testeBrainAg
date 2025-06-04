@@ -2,6 +2,8 @@
 
 Este projeto é uma API construída com [NestJS](https://nestjs.com/) como teste técnico para a posição de Backend Developer na Brain-Ag. Ele permite gerenciar **produtores rurais**, **fazendas** e **safras** de forma estruturada.
 
+Segue o projeto e o modelo original dos dados feito em SQL para propósitos de modelagem. O projeto utiliza typeORM, portanto o SQL é apenas para fins de referência.
+
 ## ✅ Pré-requisitos
 
 Você deve estar utilizando **Ubuntu 24.04 LTS** e possuir os seguintes softwares instalados:
